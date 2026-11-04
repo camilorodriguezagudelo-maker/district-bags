@@ -22,7 +22,16 @@
       "text": "Un clásico con instinto. Su boca de tiburón tejida en blanco y rojo destaca sobre una base negra, con detalles dorados que completan el contraste. Un bolso para darle carácter a tus recorridos por la ciudad.",
       "info": "Sprayground original. Acabado tejido con dientes de textura visible, asa superior, bolsillo frontal con cremallera y bolsillos laterales. Tirantes negros ajustables y detalles dorados. Incluye galería con vista posterior y primeros planos del tejido y las etiquetas.",
       "price": 700000,
-      "currency": "COP"
+      "currency": "COP",
+      "dimensions": {
+        "heightCm": 45,
+        "widthCm": 27,
+        "depthCm": 15,
+        "basis": "Referencia del fabricante en su ficha europea; identificación visual del diseño.",
+        "source": "https://sprayground.eu/products/shark-central-knit-backpack",
+        "referenceModel": "Shark Central Knit Backpack",
+        "checkedOn": "2026-11-04"
+      }
     },
     {
       "id": "hello",
@@ -44,7 +53,16 @@
       "text": "Una presentación que no necesita palabras. El diseño Hello My Name Is se une al gráfico de 15.º aniversario en una composición acolchada de blanco y negro. Las letras metálicas y los bordes con cadena le dan una presencia especial.",
       "info": "Sprayground original. Diseño Hello 15 Years con superficie acolchada, letras metálicas frontales, detalle de cadena en los bordes y asa superior. Tirantes ajustables y bolsillos laterales. Revisa las fotos del frente, la espalda y la etiqueta de aniversario.",
       "price": 800000,
-      "currency": "COP"
+      "currency": "COP",
+      "dimensions": {
+        "heightCm": 45,
+        "widthCm": 27,
+        "depthCm": 15,
+        "basis": "Referencia del fabricante en su ficha europea; identificación visual del diseño.",
+        "source": "https://sprayground.eu/products/hello-my-name-is-15-years-quilted-backpack",
+        "referenceModel": "Hello My Name Is 15 Years Quilted Backpack",
+        "checkedOn": "2026-11-04"
+      }
     },
     {
       "id": "graffiti",
@@ -68,7 +86,8 @@
       "text": "Arte urbano para llevar. El trazo blanco de la boca de tiburón, con efecto de pintura que gotea, transforma el fondo negro en una declaración gráfica. El pequeño parche rojo remata un diseño de alto contraste.",
       "info": "Sprayground original. Diseño gráfico blanco con efecto de goteo, detalle lateral de ojo, parche frontal rojo y asa superior. Bolsillos laterales y tirantes ajustables. La galería incluye vistas del diseño, de la espalda y de las etiquetas.",
       "price": 700000,
-      "currency": "COP"
+      "currency": "COP",
+      "dimensions": null
     },
     {
       "id": "yellow",
@@ -88,7 +107,16 @@
       "text": "El detalle que cambia todo. La boca de tiburón en tonos grises se combina con una base negra y un tirador amarillo con la firma Sprayground. Un diseño sobrio con un acento que se reconoce a primera vista.",
       "info": "Sprayground original. Boca de tiburón de acabado tejido, tirador amarillo con texto Sprayground y parche rojo frontal. Asa superior, bolsillos laterales y tirantes ajustables. Consulta las tres fotografías para ver su frente y su parte posterior.",
       "price": 700000,
-      "currency": "COP"
+      "currency": "COP",
+      "dimensions": {
+        "heightCm": 45,
+        "widthCm": 27,
+        "depthCm": 15,
+        "basis": "Referencia del fabricante en su ficha europea; identificación visual del diseño.",
+        "source": "https://sprayground.eu/products/shark-central-yellow-tape-dlx-satin-backpack",
+        "referenceModel": "Shark Central Yellow Tape DLX Satin Backpack",
+        "checkedOn": "2026-11-04"
+      }
     },
     {
       "id": "dark",
@@ -110,7 +138,16 @@
       "text": "Carácter en voz baja. La boca de tiburón en gris oscuro se integra con el negro para crear un efecto tono sobre tono. El parche Shark Central y las líneas del diseño le dan identidad sin recurrir a colores intensos.",
       "info": "Sprayground original. Diseño de tiburón en negro y gris oscuro, parche superior Shark Central, asa de mano y bolsillo frontal con cremallera. Bolsillos laterales y tirantes ajustables. Explora las vistas frontal, posterior y los detalles de las etiquetas.",
       "price": 700000,
-      "currency": "COP"
+      "currency": "COP",
+      "dimensions": {
+        "heightCm": 45,
+        "widthCm": 27,
+        "depthCm": 15,
+        "basis": "Referencia del fabricante en su ficha europea; identificación visual del diseño.",
+        "source": "https://sprayground.eu/products/shark-central-nylon-black",
+        "referenceModel": "Shark Central Nylon Black",
+        "checkedOn": "2026-11-04"
+      }
     }
   ],
   "unique_photos": 21
