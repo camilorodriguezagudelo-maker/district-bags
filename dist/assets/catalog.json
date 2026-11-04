@@ -1,0 +1,117 @@
+{
+  "models": [
+    {
+      "id": "shark",
+      "name": "Shark Rojo",
+      "sub": "Negro / blanco / rojo",
+      "tag": "CONTRASTE GRÁFICO",
+      "photos": [
+        "shark",
+        "shark-scene",
+        "shark-back",
+        "shark-tags",
+        "shark-texture"
+      ],
+      "photoLabels": [
+        "Vista de tres cuartos",
+        "Vista con presentación gráfica",
+        "Vista posterior",
+        "Detalle de las etiquetas",
+        "Detalle del tejido y los dientes"
+      ],
+      "text": "Un clásico con instinto. Su boca de tiburón tejida en blanco y rojo destaca sobre una base negra, con detalles dorados que completan el contraste. Un bolso para darle carácter a tus recorridos por la ciudad.",
+      "info": "Sprayground original. Acabado tejido con dientes de textura visible, asa superior, bolsillo frontal con cremallera y bolsillos laterales. Tirantes negros ajustables y detalles dorados. Incluye galería con vista posterior y primeros planos del tejido y las etiquetas.",
+      "price": 700000,
+      "currency": "COP"
+    },
+    {
+      "id": "hello",
+      "name": "Hello 15 Years",
+      "sub": "Negro / blanco · diseño aniversario",
+      "tag": "15 YEARS / HELLO",
+      "photos": [
+        "hello",
+        "hello-scene",
+        "back",
+        "detail"
+      ],
+      "photoLabels": [
+        "Vista frontal",
+        "Vista de tres cuartos con presentación gráfica",
+        "Vista posterior",
+        "Detalle de etiquetas 15 Years"
+      ],
+      "text": "Una presentación que no necesita palabras. El diseño Hello My Name Is se une al gráfico de 15.º aniversario en una composición acolchada de blanco y negro. Las letras metálicas y los bordes con cadena le dan una presencia especial.",
+      "info": "Sprayground original. Diseño Hello 15 Years con superficie acolchada, letras metálicas frontales, detalle de cadena en los bordes y asa superior. Tirantes ajustables y bolsillos laterales. Revisa las fotos del frente, la espalda y la etiqueta de aniversario.",
+      "price": 800000,
+      "currency": "COP"
+    },
+    {
+      "id": "graffiti",
+      "name": "Shark Graffiti",
+      "sub": "Negro / blanco · efecto pintura",
+      "tag": "TRAZOS CON CARÁCTER",
+      "photos": [
+        "graffiti",
+        "graffiti-scene",
+        "graffiti-back",
+        "graffiti-tags",
+        "graffiti-label"
+      ],
+      "photoLabels": [
+        "Vista de tres cuartos",
+        "Vista con presentación gráfica",
+        "Vista posterior",
+        "Detalle de etiquetas rojas",
+        "Primer plano de la etiqueta"
+      ],
+      "text": "Arte urbano para llevar. El trazo blanco de la boca de tiburón, con efecto de pintura que gotea, transforma el fondo negro en una declaración gráfica. El pequeño parche rojo remata un diseño de alto contraste.",
+      "info": "Sprayground original. Diseño gráfico blanco con efecto de goteo, detalle lateral de ojo, parche frontal rojo y asa superior. Bolsillos laterales y tirantes ajustables. La galería incluye vistas del diseño, de la espalda y de las etiquetas.",
+      "price": 700000,
+      "currency": "COP"
+    },
+    {
+      "id": "yellow",
+      "name": "Shark Amarillo",
+      "sub": "Negro / gris · acento amarillo",
+      "tag": "UN ACENTO DISTINTO",
+      "photos": [
+        "shark-yellow",
+        "shark-yellow-scene",
+        "shark-yellow-back"
+      ],
+      "photoLabels": [
+        "Vista frontal",
+        "Vista con presentación gráfica",
+        "Vista posterior"
+      ],
+      "text": "El detalle que cambia todo. La boca de tiburón en tonos grises se combina con una base negra y un tirador amarillo con la firma Sprayground. Un diseño sobrio con un acento que se reconoce a primera vista.",
+      "info": "Sprayground original. Boca de tiburón de acabado tejido, tirador amarillo con texto Sprayground y parche rojo frontal. Asa superior, bolsillos laterales y tirantes ajustables. Consulta las tres fotografías para ver su frente y su parte posterior.",
+      "price": 700000,
+      "currency": "COP"
+    },
+    {
+      "id": "dark",
+      "name": "Shark Oscuro",
+      "sub": "Negro / gris oscuro · tono sobre tono",
+      "tag": "CARÁCTER EN VOZ BAJA",
+      "photos": [
+        "shark-dark",
+        "shark-dark-scene",
+        "shark-dark-back",
+        "shark-dark-tags"
+      ],
+      "photoLabels": [
+        "Vista frontal",
+        "Vista de tres cuartos con presentación gráfica",
+        "Vista posterior",
+        "Detalle de las etiquetas"
+      ],
+      "text": "Carácter en voz baja. La boca de tiburón en gris oscuro se integra con el negro para crear un efecto tono sobre tono. El parche Shark Central y las líneas del diseño le dan identidad sin recurrir a colores intensos.",
+      "info": "Sprayground original. Diseño de tiburón en negro y gris oscuro, parche superior Shark Central, asa de mano y bolsillo frontal con cremallera. Bolsillos laterales y tirantes ajustables. Explora las vistas frontal, posterior y los detalles de las etiquetas.",
+      "price": 700000,
+      "currency": "COP"
+    }
+  ],
+  "unique_photos": 21
+}
