@@ -87,7 +87,15 @@
       "info": "Sprayground original. Diseño gráfico blanco con efecto de goteo, detalle lateral de ojo, parche frontal rojo y asa superior. Bolsillos laterales y tirantes ajustables. La galería incluye vistas del diseño, de la espalda y de las etiquetas.",
       "price": 700000,
       "currency": "COP",
-      "dimensions": null
+      "dimensions": {
+        "heightCm": 45,
+        "widthCm": 27,
+        "depthCm": 15,
+        "basis": "Medidas aproximadas indicadas por el vendedor.",
+        "source": null,
+        "referenceModel": null,
+        "confirmedBy": "seller"
+      }
     },
     {
       "id": "yellow",

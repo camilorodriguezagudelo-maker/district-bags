@@ -13,4 +13,4 @@ Las fichas europeas de los cuatro diseños visualmente coincidentes publican 27 
 
 Las fichas de Estados Unidos de Hello y Yellow Tape/Parachute publican 18 × 6 × 11,5 pulgadas, que no equivalen exactamente a las medidas europeas. Se conserva una sola fuente regional para evitar combinar cifras y se pide confirmar el ajuste físico cuando sea relevante.
 
-Shark Graffiti: sin dimensiones publicadas. Las fichas White Stencil Black Nylon y Stencils Black consultadas tienen fotografías que no coinciden con el diseño de goteo de la unidad del propietario. No trasladar sus medidas a esta referencia sin verificar el SKU o medir la unidad.
+Shark Graffiti: el propietario solicitó publicar las mismas medidas, 45 × 27 × 15 cm. Se muestran como aproximadas indicadas por el vendedor, sin atribuirlas al fabricante ni adjuntar una ficha de otro modelo. La unidad no ha sido medida físicamente por el asistente.
