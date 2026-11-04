@@ -38,3 +38,7 @@ Configura `dist` como directorio público en un servicio de hosting estático. N
 ## Recursos
 
 Las fotografías corresponden a los productos aportados por el propietario. No se concede una licencia de reutilización de esas imágenes ni de las marcas mediante este repositorio.
+
+## Vercel
+
+Importa este repositorio y usa la raíz del repositorio como Root Directory. `vercel.json` configura el sitio estático y la carpeta de salida `dist`. No necesita variables de entorno ni comando de compilación.
