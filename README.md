@@ -15,7 +15,7 @@ Abre http://localhost:8000.
 ## Archivos
 
 - `dist/index.html`: estructura y contenido.
-- `dist/style.css` y `dist/polish.css`: diseño, temas y adaptación móvil.
+- `dist/style.css`: diseño Mint Noir y adaptación móvil.
 - `dist/app.js`: catálogo e interacciones.
 - `dist/assets/`: 21 fotografías y `catalog.json`.
 
@@ -29,7 +29,7 @@ Al cambiar precios, actualiza tanto el catálogo de `app.js` como `assets/catalo
 
 ## Alcance
 
-Los favoritos, el tema y la selección se guardan en el navegador. Copiar la selección no realiza pedidos. No hay backend de pagos ni checkout. Envío y disponibilidad por confirmar.
+Los favoritos y la selección se guardan en el navegador. Los enlaces de WhatsApp abren un mensaje para revisar antes de enviarlo. Copiar la selección no realiza pedidos. No hay backend de pagos ni checkout. Envío y disponibilidad por confirmar.
 
 ## Publicación
 
